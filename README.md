@@ -2,6 +2,9 @@
 
 e-ink colorscheme for termux.
 
+![Screenshot_20250324_121457](https://github.com/user-attachments/assets/d056841f-11ed-4985-ad61-3f3bbb45df8c)
+![Screenshot_20250324_121756](https://github.com/user-attachments/assets/e8dfb5c2-b366-4909-8931-745ee7823971)
+
 &nbsp;
 
 ## Installation
