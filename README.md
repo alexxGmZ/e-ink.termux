@@ -20,3 +20,4 @@ e-ink colorscheme for termux.
 * [NeoVim](https://github.com/alexxGmZ/e-ink.nvim)
 * [cmus](https://github.com/alexxGmZ/e-ink.cmus)
 * [kitty](https://github.com/alexxGmZ/e-ink.kitty)
+* [ghostty](https://github.com/alexxGmZ/e-ink.ghostty)
