@@ -21,3 +21,4 @@ e-ink colorscheme for termux.
 * [cmus](https://github.com/alexxGmZ/e-ink.cmus)
 * [kitty](https://github.com/alexxGmZ/e-ink.kitty)
 * [ghostty](https://github.com/alexxGmZ/e-ink.ghostty)
+* [Sublime Text](https://github.com/alexxGmZ/e-ink.subl)
