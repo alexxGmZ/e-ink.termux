@@ -17,8 +17,8 @@ e-ink colorscheme for termux.
 
 ## Application Ports
 
-* [NeoVim](https://github.com/alexxGmZ/e-ink.nvim)
-* [cmus](https://github.com/alexxGmZ/e-ink.cmus)
-* [kitty](https://github.com/alexxGmZ/e-ink.kitty)
-* [ghostty](https://github.com/alexxGmZ/e-ink.ghostty)
-* [Sublime Text](https://github.com/alexxGmZ/e-ink.subl)
+* [NeoVim](https://github.com/e-ink-colorscheme/e-ink.nvim)
+* [cmus](https://github.com/e-ink-colorscheme/e-ink.cmus)
+* [kitty](https://github.com/e-ink-colorscheme/e-ink.kitty)
+* [ghostty](https://github.com/e-ink-colorscheme/e-ink.ghostty)
+* [Sublime Text](https://github.com/e-ink-colorscheme/e-ink.subl)
